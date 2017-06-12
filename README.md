@@ -1,4 +1,4 @@
-성적표 양식
+﻿성적표 양식
 ============
 ## Exam ReportCard Template
 
@@ -14,7 +14,7 @@
 
 다운로드
 ------------
-[17년 1분기 성적표 템플릿](https://github.com/GulimFont/ExamReportCard/releases/tag/17.1.0) | [다운로드](https://github.com/GulimFont/ExamReportCard/releases/download/17.1.0/17y1q.zip)
+[17년 1분기 성적표 템플릿](https://github.com/GulimFont/ExamReportCard/releases/tag/17.1.0) | [다운로드](https://github.com/GulimFont/ExamReportCard/releases/download/17.1.0/17w1q.zip)
   * 사용한 프로그램
     * Adobe Photoshop CC 2017
     * 한컴 오피스 한글 2016
